@@ -849,3 +849,9 @@ section #title .credits.right {
     display: none;
   }
 }
+#pic1 {
+  margin-left: 10px;
+}
+#pic2 {
+  margin-right:10px;
+}
