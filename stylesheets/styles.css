@@ -858,8 +858,7 @@ section #title .credits.right {
 #social {
   height: 75px;
   width: 75px;
-  margin-left: 20px;
-  margin-right: 20px;
+  text-align:center;
 }
 .caption {
   text-align: center;
