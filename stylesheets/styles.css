@@ -865,7 +865,7 @@ section #title .credits.right {
   text-align: center;
 }
 .footer{
-  position:relative;
+  position:absolute;
   top:30px;
   right:5px;
   z-index:-1;
