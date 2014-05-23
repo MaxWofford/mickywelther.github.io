@@ -854,6 +854,8 @@ section #title .credits.right {
 }
 #pic2 {
   margin-left: 32px;
+  width:50%;
+  height:50%;
 }
 #social {
   height: 60px;
