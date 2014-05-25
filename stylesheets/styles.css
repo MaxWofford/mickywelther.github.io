@@ -868,3 +868,8 @@ section #title .credits.right {
 .footer{
   z-index:-1;
 }
+.seniorspot{
+  top:10px
+  right:5px;
+  position:absolute;
+}
