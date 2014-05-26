@@ -855,10 +855,12 @@ section #title .credits.right {
   margin-left:5px;
   margin-top:0px;
   z-index:-1;
+  position:absolute;
 }
 .imgs2{
   margin-right:5px;
   margin-top:0px
   z-index:-1;
+  position:absolute;
 }
 
