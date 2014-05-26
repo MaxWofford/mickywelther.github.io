@@ -850,3 +850,7 @@ section #title .credits.right {
     display: none;
   }
 }
+
+calpolylogo{
+  position:absolute center;
+}
