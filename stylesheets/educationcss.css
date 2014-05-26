@@ -859,8 +859,8 @@ section #title .credits.right {
 }
 .imgs2{
   margin-right:5px;
-  margin-top:0px
-  z-index:-2;
+  margin-top:0px;
+  z-index:-1;
   position:absolute;
 }
 
