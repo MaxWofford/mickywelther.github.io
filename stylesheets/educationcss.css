@@ -851,16 +851,3 @@ section #title .credits.right {
   }
 }
 
-.imgs1{
-  margin-left:5px;
-  margin-top:0px;
-  z-index:-2;
-  position:absolute;
-}
-.imgs2{
-  margin-right:5px;
-  margin-top:0px;
-  z-index:-1;
-  position:absolute;
-}
-
