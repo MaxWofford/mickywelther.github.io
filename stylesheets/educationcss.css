@@ -852,5 +852,5 @@ section #title .credits.right {
 }
 
 calpolylogo{
-  position:absolute center;
+  z-index=-1
 }
