@@ -832,10 +832,6 @@ section #title .credits.right {
     float: none;
     display: block;
   }
-  #title .credits .right {
-    float: none;
-    display: block;
-  }
 }
 @media print, screen and (max-width: 480px) {
   #header {
